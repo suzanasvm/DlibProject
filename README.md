@@ -6,7 +6,9 @@ For more information:
 
 https://medium.com/@suzana.svm/reconhecendo-landmarks-em-faces-com-dlib-python-7bfb094e1bb4
 
-And see a preview video here:
+![alt text](https://github.com/suzanasvm/DlibProject/blob/master/example.jpeg)
+
+And see a previews videos here:
 
 [![Preview Video](https://img.youtube.com/vi/7UY4mO6xmjo/0.jpg)](https://youtu.be/7UY4mO6xmjo)
 
