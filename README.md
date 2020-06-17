@@ -1,4 +1,4 @@
-# DlibProject
+# DlibProject - Landmarks
 
 This project recognizes landmarks using the dlib library and python.
 
